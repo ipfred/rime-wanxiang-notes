@@ -193,7 +193,7 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 
 万象拼音提供丰富的Lua扩展功能，让输入更高效。
 
-#### 日期时间快捷输入
+##### 日期时间快捷输入
 <details>
 <summary>🔧 日期时间快捷输入</summary>
 
@@ -221,7 +221,7 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 > 💡 支持自定义格式和顺序，详见方案配置 `wanxiang.schema.yaml` 
 </details>
 
-#### 计算器模式
+##### 计算器模式
 <details>
 <summary>🔧 计算器模式</summary>
 
