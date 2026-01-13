@@ -193,7 +193,6 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 
 万象拼音提供丰富的Lua扩展功能，让输入更高效。
 
-##### 日期时间快捷输入
 <details>
 <summary>🔧 日期时间快捷输入</summary>
 
@@ -221,7 +220,6 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 > 💡 支持自定义格式和顺序，详见方案配置 `wanxiang.schema.yaml` 
 </details>
 
-##### 计算器模式
 <details>
 <summary>🔧 计算器模式</summary>
 
@@ -236,7 +234,6 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 ![计算器示例](https://storage.deepin.org/thread/202509260127113759_计算器1.png)
 </details>
 
-#### 超级Tips提示
 <details>
 <summary>🔧 超级Tips提示</summary>
 
@@ -257,7 +254,6 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 
 </details>
 
-#### /引导模式
 <details>
 <summary>🔧 /引导模式</summary>
 
@@ -268,7 +264,6 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 <img src="https://storage.deepin.org/thread/202509260126167252_符号圆点.jpg" height="80">
 </details>
 
-#### 辅助码提示（仅PRO）
 <details>
 <summary>🔧 辅助码提示（仅PRO）</summary>
 
@@ -281,7 +276,6 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 
 </details>
 
-#### 快速符号（快符）
 <details>
 <summary>🔧 快速符号（快符）</summary>
 
@@ -294,8 +288,6 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 配置位置：`quick_symbol_text` 段落
 </details>
 
-#### 输入码音调显示
-
 <details>
 <summary>🔧 输入码音调显示</summary>
 
@@ -306,7 +298,6 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 `Shift+Enter` - 上屏当前显示的编码字符串
 </details>
 
-#### 用户造词
 <details>
 <summary>🔧 用户按需造词 中文无感造词（仅PRO）</summary>
 
@@ -325,7 +316,6 @@ bash rime-install amzxyz/rime_wanxiang@wanxiang-shouyou-fuzhu:plum/dicts
 > 💡 PRO版讲究自主可控，避免异常词汇污染词库
 </details>
 
-#### 手动排序
 <details>
 <summary>🔧 手动排序</summary>
 
