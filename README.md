@@ -506,7 +506,7 @@ patch:
 
 万象提供了多设备用户词同步功能，让你在不同设备间保持一致的输入体验。
 
-#### 基础配置
+1. 基础配置
 
 <details>
 <summary>📱 单设备用户词编辑</summary>
@@ -526,7 +526,7 @@ patch:
 
 </details>
 
-#### 用户词库迁移
+2. 用户词库迁移
 
 <details>
 <summary>⚙️ 同步配置详解</summary>
@@ -658,14 +658,14 @@ sequence_ios.txt
 
 </details>
 
-#### ⚠️ 重要注意事项
+⚠️ 重要注意事项
 
 - **同步目录**：只同步 `/sync` 目录，**不要**将整个rime文件夹放入同步软件，会导致数据库锁定
 - **文件格式**：编辑用户词txt时必须保持万象编码格式（声调+辅助码）
 - **设备ID一致性**：确保 `installation_id`、设备文件夹名、`user_id` 三者完全一致
 - **可靠性说明**：此流程模拟Rime同步方式，为多端数据合并过程，iPhone设备可能遇到更多问题
 
-#### 排序信息同步
+3. 排序信息同步
 
 <details>
 <summary>📊 手动排序数据同步</summary>
@@ -695,7 +695,7 @@ sequence_ios.txt
 
 </details>
 
-#### 相关工具
+5. 相关工具
 
 - [用于Linux Mac的词库刷拼音辅助码工具](https://github.com/amzxyz/RIME-LMDG/releases/download/tools/wanxiang-dicts-tools-linux-mac)
 
@@ -739,22 +739,22 @@ wanxiang_lookup:
 
 ---
 
-## 🌟 平台特殊说明
+## 🌟 其他平台特殊说明
 
-### iOS 仓输入法
+1. iOS 仓输入法
 
 1. 方案下载：仓设置 → 输入方案 → "+" → 万象拼音
 2. 切换方案：长按 `/` + 方案代码（如 `/flypy`）
 3. **关键步骤**：文件管理 → 拷贝键盘词库至应用
 4. 重新部署
 
-### iOS 元书输入法
+2. iOS 元书输入法
 
 1. 从 `RimeSharedSupport` 复制 `include_keyboard_rime_files.txt`
 2. 修改文件底部新增：```^.*[.]custom.*$```
 3. 重新部署
 
-### Android
+3. Android
 
 ⚠️ **注意权限问题**：
 - 小企鹅等前端数据位于 `data` 目录
