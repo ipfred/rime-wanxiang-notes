@@ -1,0 +1,16 @@
+site_name: rime-wanxiang-notes
+site_description: Beginner-friendly docs for rime_wanxiang (万象输入法)
+docs_dir: docs
+theme:
+  name: material
+nav:
+  - 首页: index.md
+  - 开始这里: 00-开始这里.md
+  - 5分钟上手: 01-5分钟上手.md
+  - 目录结构与核心文件: 02-目录结构与核心文件.md
+  - 基础配置: 03-基础配置.md
+  - 进阶配置: 04-进阶配置.md
+  - 功能亮点与配置速查: 07-功能亮点与配置速查.md
+  - Patch 方法论: 10-patch方法论.md
+  - 常见问题: 05-常见问题.md
+  - 术语表: 06-术语表.md
