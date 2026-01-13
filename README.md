@@ -701,7 +701,7 @@ sequence_ios.txt
 
 - [用于Windows的词库刷拼音辅助码工具](https://github.com/amzxyz/RIME-LMDG/releases/download/tools/wanxiang-tools.exe)
 
-### 辅助码切换指令
+### 4️⃣辅助码切换指令
 
 所有指令格式：`/` + 代码
 
@@ -723,7 +723,7 @@ sequence_ios.txt
 /zjf      → 直接辅助
 ```
 
-### 反查配置
+### 5️⃣反查配置
 
 在你的 `wanxiang.custom.yaml` 中配置：
 
@@ -831,22 +831,22 @@ wanxiang_lookup:
 
 ## 📚 相关资源
 
-### 官方文档
+1. 💬官方文档
 - [🚀 新手安装配置指南](https://docs.qq.com/doc/DQ0FqSXBmYVpWVFpy?rtkey=)
 - [词库问题收集反馈表](https://docs.qq.com/smartsheet/DWHZsdnZZaGh5bWJI?viewId=vUQPXH&tab=BB08J2)
 - [RIME-LMDG 词库与语言模型仓库](https://github.com/amzxyz/RIME-LMDG)
 - [思维导图快速配置查询](https://github.com/amzxyz/rime_wanxiang/blob/wanxiang/custom/%E4%B8%87%E8%B1%A1%E8%BE%93%E5%85%A5%E6%96%B9%E6%A1%88.png)
 
-### 友情链接
+2. 友情链接
 - [Oh My Rime](https://www.mintimate.cc/zh/guide/installRime.html) - Rime基础入门
 - [Rime参数配置](https://xishansnow.github.io/posts/41ac964d.html) - 详细配置说明
 
-### 工具下载
+3. 工具下载
 - [Windows词库工具](https://github.com/amzxyz/RIME-LMDG/releases/download/tools/wanxiang-tools.exe)
 - [Linux/Mac词库工具](https://github.com/amzxyz/RIME-LMDG/releases/download/tools/wanxiang-dicts-tools-linux-mac)
 - [更新脚本](https://github.com/rimeinn/rime-wanxiang-update-tools)
 
-### 自定义数据
+4. 自定义数据
 在线获取（不随方案包提供）：
 - `jm_flypy.txt` - 小鹤简码
 - `jm_zrm.txt` - 自然码简码
@@ -870,13 +870,3 @@ wanxiang_lookup:
 > **万象词库中的带声调拼音标注+词组构成+词频是整个万象项目的核心，是使用体验的基石。方案的其它功能皆可自定义，我希望使用者可以基于词库+转写的方式获得输入体验。**
 
 ---
-
-## 💬 反馈与贡献
-
-- **问题反馈**：[GitHub Issues](https://github.com/amzxyz/rime_wanxiang/issues)
-- **深度讨论**：[Ask DeepWiki](https://deepwiki.com/amzxyz/rime_wanxiang)
-- **词库反馈**：[在线表单](https://docs.qq.com/smartsheet/DWHZsdnZZaGh5bWJI?viewId=vUQPXH&tab=BB08J2)
-
-
-
-## 🤝文档有问题和疑惑，欢迎指正
