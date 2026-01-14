@@ -2,11 +2,7 @@
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ipfred/rime-wanxiang-notes)
 
-
 > 这是一个“文档仓库”，用于帮助新手更快上手「万象输入法 / rime_wanxiang」。方案文件与实现请前往源项目获取。
-
-快速导航：`docs/index.md`（站点入口）、`docs/01-5分钟上手.md`（先跑起来）、`docs/07-功能亮点与配置速查.md`（收藏级速查）。
-
 ---
 
 ## 📁项目地址
